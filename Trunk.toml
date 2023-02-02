@@ -1,5 +1,0 @@
-[build]
-target = "index.html"
-dist = "dist"
-release = false
-public_url = "/yew-app/"
